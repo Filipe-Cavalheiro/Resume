@@ -1,0 +1,3 @@
+default:
+	open main.html
+
